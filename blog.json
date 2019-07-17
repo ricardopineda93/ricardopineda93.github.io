@@ -1,9 +1,9 @@
 [
- {
-  "url_title": "sample-blog-post",
-  "title": "sample-blog-post",
-  "sub_title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-  "top_image": "https://images.unsplash.com/photo-1553748024-d1b27fb3f960?w=1450",
-  "visible": true
- }
+  {
+    "url_title": "Who is Richie?",
+    "title": "Who is Richie?",
+    "sub_title": "The Man Behind the Code.",
+    "top_image": "https://media.licdn.com/dms/image/C4D16AQEDwlmWoqNlkw/profile-displaybackgroundimage-shrink_350_1400/0?e=1568851200&v=beta&t=NAy_THNhzzRwFWqmoOxyfAFe-BNIL6MhM2c0XhPjzi0",
+    "visible": true
+  }
 ]
