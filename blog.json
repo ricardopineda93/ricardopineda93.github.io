@@ -1,9 +1,30 @@
 [
- {
-  "url_title": "sample-blog-post",
-  "title": "sample-blog-post",
-  "sub_title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-  "top_image": "https://images.unsplash.com/photo-1553748024-d1b27fb3f960?w=1450",
-  "visible": true
- }
+  {
+    "url_title": "from-0-to-1",
+    "title": "From 0 to 1",
+    "sub_title": "A Fullstack Academy Retrospective",
+    "top_image": "https://i.ytimg.com/vi/A54_QPXdkU0/maxresdefault.jpg",
+    "visible": true
+  },
+  {
+    "url_title": "who-is-richie",
+    "title": "Who is Richie?",
+    "sub_title": "The Man Behind the Code.",
+    "top_image": "https://media.licdn.com/dms/image/C4D16AQEDwlmWoqNlkw/profile-displaybackgroundimage-shrink_350_1400/0?e=1568851200&v=beta&t=NAy_THNhzzRwFWqmoOxyfAFe-BNIL6MhM2c0XhPjzi0",
+    "visible": true
+  },
+  {
+    "url_title": "creating-serverless-electron-desktop-app",
+    "title": "Using Electron’s ipcRenderer and ipcMain to Create a Server-less Desktop Application.",
+    "sub_title": "Taking a page from Event Oriented Programming.",
+    "top_image": "https://miro.medium.com/max/700/0*asb4wY3ap2pPlGaA",
+    "visible": true
+  },
+  {
+    "url_title": "graphql-express-authentication",
+    "title": "Setting Up Basic Authentication and Sessions on a GraphQL Server using Passport.js & Express Sessions.",
+    "sub_title": "A quick walkthrough on basic user authentication and persistence using Express sessions, Passport.js and GraphQL.",
+    "top_image": "https://miro.medium.com/max/2000/1*di7bhLC_gIwXRtEBiOvwSg.png",
+    "visible": true
+  }
 ]
